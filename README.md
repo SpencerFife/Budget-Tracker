@@ -6,6 +6,8 @@ A helpful progressive web app (PWA) budget tracker with online and offline capab
 
 With this app you can add and subtract funds from your personal budget. It will allow you to add offline data to your app when you go back online.
 
+(Feel free to clone this repo and download the app)
+
 ## Technologies
 
 - Javascript
